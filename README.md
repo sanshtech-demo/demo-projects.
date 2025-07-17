@@ -17,7 +17,7 @@ At SanshTech, we build scalable and innovative software solutions for businesses
 ---
 
 ## 🏆 Highlights
-- ✅ 50+ Projects Delivered
+- ✅ 70 + Projects Delivered
 - 🌎 Clients across US, Europe, and Asia
 - 🥇 Award-winning mobile app designs
 
